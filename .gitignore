@@ -3,5 +3,4 @@ weather_api.ipynb
 local_sqlite_db.db
 api_key.py
 *.json
-*.txt
 .env
