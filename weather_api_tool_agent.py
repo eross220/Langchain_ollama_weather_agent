@@ -4,7 +4,6 @@ from langchain_core.tools import tool
 import requests
 import streamlit as st
 import json
-import api_key #my local file
 import os
 from dotenv import load_dotenv
 load_dotenv()
